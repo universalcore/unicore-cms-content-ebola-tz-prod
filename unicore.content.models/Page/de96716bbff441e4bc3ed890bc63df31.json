@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "6. Je, ugonjwa wa ebola unatibika?", 
+  "language": "swa_TZ", 
+  "title": "6. Je, ugonjwa wa ebola unatibika?", 
+  "primary_category": "dd798616683a4c99896c1394b017e7cc", 
+  "created_at": "2014-12-23T10:36:10.264115+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-23T10:36:10.264328+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Ni muhimu kwa mtu anayehisi dalili za ebola kuwahi kituo cha kutolea huduma za afya kwani mgonjwa wa Ebola anahitaji uangalizi wa karibu. Japokuwa ugonjwa wa Ebola hauna tiba maalum wala chanjo, kuna uwezekano mkubwa wa kuepuka kifo iwapo mgonjwa atawahi kupata tiba. Mgonjwa hupatiwa tiba saidizi kulingana na dalili lizonazo, kama vile :\r\n\r\n- Tiba ya homa na maumivu\r\n- kuongezewa maji mwilini\r\n- Tiba lishe\r\n- Kuzuia kuenea kwa maambukizi\r\n", 
+  "source": "fef8e3b897d44b4a9216704787c2a900", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "6-je-ugonjwa-wa-ebola-unatibika", 
+  "uuid": "de96716bbff441e4bc3ed890bc63df31"
+}
