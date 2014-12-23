@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "5. Wakati gani mtu akapate matibabu?", 
+  "language": "swa_TZ", 
+  "title": "5. Wakati gani mtu akapate matibabu?", 
+  "primary_category": "dd798616683a4c99896c1394b017e7cc", 
+  "created_at": "2014-12-23T10:34:06.198966+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-23T10:34:06.199200+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Nenda haraka kwenye kituo cha kutoa huduma za afya pindi unapohisi kuwa na dalili za uginjwa wa Ebola, au unapogusana na mtu mwenye dalili za ugonjwa wa Ebola. Na pia, ni muhimu kutoa taarifa haraka kwenye kituo cha huduma za afya kilicho karibu nawe pindi unapohisi mtu ana dalili za ugonjwa wa Ebola.", 
+  "source": "3e184a0dcdc240538effedfea0b0a2fb", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "5-wakati-gani-mtu-akapate-matibabu", 
+  "uuid": "19a8e4dd3e584827922b2771103e391f"
+}
