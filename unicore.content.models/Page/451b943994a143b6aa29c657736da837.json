@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "2. Mtu anawezaje kuambukizwa virusi vya ebola?", 
+  "description": "2. Mtu anawezaje kuambukizwa virusi vya Ebola?", 
   "language": "swa_TZ", 
-  "title": "2. Mtu anawezaje kuambukizwa virusi vya ebola?", 
+  "title": "2. Mtu anawezaje kuambukizwa virusi vya Ebola?", 
   "primary_category": "dd798616683a4c99896c1394b017e7cc", 
   "created_at": "2014-12-23T10:28:14+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-13T07:22:58.632600+00:00", 
+  "modified_at": "2015-01-13T07:35:30.236963+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
