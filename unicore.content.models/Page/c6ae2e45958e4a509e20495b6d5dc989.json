@@ -4,14 +4,14 @@
   "language": "swa_TZ", 
   "title": "3. Nani wapo katika hatari zaidi ya kupata ugonjwa wa ebola?", 
   "primary_category": "dd798616683a4c99896c1394b017e7cc", 
-  "created_at": "2014-12-23T10:30:00.440663+00:00", 
+  "created_at": "2014-12-23T10:30:00+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-23T13:55:20.394954+00:00", 
+  "modified_at": "2015-01-13T07:23:43.214403+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "3-nani-wapo-katika-hatari-zaidi-ya-kupata-ugonjwa-wa-ebola", 
   "uuid": "c6ae2e45958e4a509e20495b6d5dc989"
