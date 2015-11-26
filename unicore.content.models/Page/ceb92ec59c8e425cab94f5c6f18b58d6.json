@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9fcf0780143248e99cf52e24f0dc4e52"
+  ], 
   "id": null, 
   "content": " - Anza haraka kumpa mgonjwa maji yenye ORS, kama huna ORS mpe maji safi na salama kwa wingi        \r\n - Mpeleke mgonjwa haraka katika kituo cha huduma za afya huku akiendelea kunywa maji safi na salama kwa wingi   \r\n - Kwa mtoto wa umri chini ya miezi 6 mwenye ugonjwa wa kuharisha/kipindupindu , endelea kumpa maziwa ya mama pekee    \r\n\r\n\r\nMakala Inayofuata \r\n", 
   "source": null, 
