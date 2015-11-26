@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "181611ec91ca4932a6bce986a44609ec"
+  ], 
   "id": null, 
   "content": " - Start giving ORS, or water if you don\u2019t have ORS to someone who has watery diarrhoea immediately.\r\n - Take them to the nearest health facility without delay, continuing to give them ORS on the way\r\n - Continue giving breast milk only, to a baby from birth up to 6 months of age who has diarrhoea / cholera \r\n", 
   "source": null, 
