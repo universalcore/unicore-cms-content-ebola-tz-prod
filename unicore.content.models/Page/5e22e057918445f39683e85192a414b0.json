@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "59101844905f42a5be1f5146e550fdaf"
+  ], 
   "id": null, 
   "content": "Everybody in Tanzania should be aware that there is an outbreak of cholera, and that you, the population, are the most crucial actors in responding to it. Because only about a quarter of those infected with cholera show severe symptoms of cholera, three times as many people can be spreading the disease as the number of reported cases. \r\n\r\nCholera is a bacterial disease that causes severe watery diarrhoea, caught from water and food contaminated with faeces.  It can kill quickly through dehydration but rapid re-hydration with ORS saves lives.\r\n\r\n\r\nNext Article", 
   "source": null, 
