@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "979ccd076bf64befa8775aa689f054da", 
   "published": null, 
-  "position": 49, 
+  "position": 54, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-about-rumours-that-some-foods-can-prevent-or-treat-the-infection", 
   "uuid": "4b0c4b4a38464f209747c7feedb9eccb"
