@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "18fd20c59fc04f6ca623aeedf0ea60e9", 
   "published": null, 
-  "position": 38, 
+  "position": 40, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "who-is-most-at-risk", 
   "uuid": "0f63eab17721469ca635e634598968bf"
