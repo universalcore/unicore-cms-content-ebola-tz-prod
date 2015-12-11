@@ -6,12 +6,12 @@
   "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
   "created_at": "2014-09-12T14:10:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-12-11T14:03:42.810480+00:00", 
+  "modified_at": "2015-12-11T14:05:45.423458+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "c42e2afd3d484f57bda98775c4f14a58", 
   "published": null, 
-  "position": 40, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-do-people-become-infected-with-the-virus", 
   "uuid": "c5a9acca2eaa4154be4c1f0fd0a82b21"
