@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "81bc780724784a28abe2fb5e35827230", 
   "published": null, 
-  "position": 40, 
+  "position": 44, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-should-someone-seek-medical-care", 
   "uuid": "b4c3d7b0c07c4f62abe502b7164d221f"
