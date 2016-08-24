@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c4c58c537b3a4ee7a0bb3eca78c3c3e0"
+  ], 
   "id": null, 
   "content": "Ni muhimu kwa mtu anayehisi dalili za ebola kuwahi kituo cha kutolea huduma za afya kwani mgonjwa wa Ebola anahitaji uangalizi wa karibu. Japokuwa ugonjwa wa Ebola hauna tiba maalum wala chanjo, kuna uwezekano mkubwa wa kuepuka kifo iwapo mgonjwa atawahi kupata tiba. Mgonjwa hupatiwa tiba saidizi kulingana na dalili alizonazo, kama vile:\r\n\r\n - Tiba ya homa na maumivu\r\n - Kuongezewa damu na maji mwilini\r\n - Tiba lishe\r\n - Kuzuia kuenea kwa maambukizi\r\n\r\n\r\nMakala inayofuata :", 
   "source": "3e184a0dcdc240538effedfea0b0a2fb", 
